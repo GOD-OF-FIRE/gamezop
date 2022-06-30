@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gamezop/static/css/main.505353d3.css",
+    "main.js": "/gamezop/static/js/main.5052beb6.js",
+    "static/js/787.b0d0868f.chunk.js": "/gamezop/static/js/787.b0d0868f.chunk.js",
+    "index.html": "/gamezop/index.html",
+    "main.505353d3.css.map": "/gamezop/static/css/main.505353d3.css.map",
+    "main.5052beb6.js.map": "/gamezop/static/js/main.5052beb6.js.map",
+    "787.b0d0868f.chunk.js.map": "/gamezop/static/js/787.b0d0868f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505353d3.css",
+    "static/js/main.5052beb6.js"
+  ]
+}
