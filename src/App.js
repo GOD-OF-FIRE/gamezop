@@ -62,10 +62,10 @@ function App() {
         <Navigation />
         {/* Routes */}
         <Routes>
-          <Route path="/" element={<About />} />
           <Route path="/topusers" element={<Contact />} />
           <Route path="/users" element={<Home />} />
           <Route path="/logout" element={<Logout />} />
+          <Route path="/" element={<About />} />
         </Routes>
       </div>
     );
