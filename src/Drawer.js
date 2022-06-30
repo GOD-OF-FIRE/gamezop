@@ -14,7 +14,7 @@ const Drawer = () => {
           News
         </Link>
         &emsp;
-        <Link className="drawerlinks" to="/gaemzop/logout">
+        <Link className="drawerlinks" to="/gamezop/logout">
           Logout
         </Link>
         &emsp;
