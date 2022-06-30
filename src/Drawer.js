@@ -6,15 +6,15 @@ const Drawer = () => {
     <>
     {/* Drawer Links  */}
       <div className="drawer">
-        <Link className="drawerlinks" to="/">
+        <Link className="drawerlinks" to="/gamezop">
           Home
         </Link>{" "}
         &emsp;
-        <Link className="drawerlinks" to="/news">
+        <Link className="drawerlinks" to="/gamezop/news">
           News
         </Link>
         &emsp;
-        <Link className="drawerlinks" to="/logout">
+        <Link className="drawerlinks" to="/gaemzop/logout">
           Logout
         </Link>
         &emsp;

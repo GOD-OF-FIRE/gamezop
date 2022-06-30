@@ -5,15 +5,15 @@ const Navigation = () => {
   return (
     <nav>
       <div className="header">
-        <Link className="links" to="/">
+        <Link className="links" to="/gamezop">
           News
         </Link>
         &emsp;
-        <Link className="links" to="/users">
+        <Link className="links" to="/gamezop/users">
           Users
         </Link>{" "}
         &emsp;
-        <Link className="links" to="/topusers">
+        <Link className="links" to="/gamezop/topusers">
           Top Users
         </Link>
         &emsp;

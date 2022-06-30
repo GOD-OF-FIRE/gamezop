@@ -37,10 +37,10 @@ function App() {
         <Navigation />
         {/* Routes */}
         <Routes>
-          <Route path="/topusers" element={<Contact />} />
-          <Route path="/news" element={<About />} />
-          <Route path="/logout" element={<Logout />} />
-          <Route path="/" element={<Home />} />
+          <Route path="/gamezop/topusers" element={<Contact />} />
+          <Route path="/gamezop/news" element={<About />} />
+          <Route path="/gamezop/logout" element={<Logout />} />
+          <Route path="/gamezop" element={<Home />} />
         </Routes>
       </div>
     );
@@ -62,10 +62,10 @@ function App() {
         <Navigation />
         {/* Routes */}
         <Routes>
-          <Route path="/topusers" element={<Contact />} />
-          <Route path="/users" element={<Home />} />
-          <Route path="/logout" element={<Logout />} />
-          <Route path="/" element={<About />} />
+          <Route path="/gamezop/topusers" element={<Contact />} />
+          <Route path="/gamezop/users" element={<Home />} />
+          <Route path="/gamezop/logout" element={<Logout />} />
+          <Route path="/gamezop" element={<About />} />
         </Routes>
       </div>
     );
